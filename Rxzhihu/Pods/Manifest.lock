@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (4.0.1)
+  - AlamofireObjectMapper (4.0.0):
+    - Alamofire (~> 4.0)
+    - ObjectMapper (~> 2.0)
+  - Kingfisher (3.2.0)
+  - MJRefresh (3.1.12)
+  - ObjectMapper (2.2.1)
+  - ReusableKit (1.1.0)
+  - RxCocoa (3.0.1):
+    - RxSwift (~> 3.0)
+  - RxDataSources (1.0.0):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxSwift (3.0.1)
+  - SnapKit (3.0.2)
+  - SVProgressHUD (2.0.3)
+  - Then (2.1.0)
+  - Toaster (2.0.1)
+  - XCGLogger (4.0.0):
+    - XCGLogger/Core (= 4.0.0)
+  - XCGLogger/Core (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireObjectMapper
+  - Kingfisher (>= 3.0)
+  - MJRefresh
+  - ReusableKit (~> 1.1)
+  - RxCocoa (~> 3.0)
+  - RxDataSources (~> 1.0)
+  - RxSwift (~> 3.0)
+  - SnapKit (~> 3.0)
+  - SVProgressHUD
+  - Then (~> 2.1)
+  - Toaster (~> 2.0)
+  - XCGLogger (~> 4.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  AlamofireObjectMapper: 9faa3ce5a240efda1b209009a2d6e1e949227abc
+  Kingfisher: 50407d1d5dbc34965009d425a286342ff36a84ea
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  ObjectMapper: 41e43e1a89f8060ef5ea5d04ba852e269a621d68
+  ReusableKit: 89e743a120bab0d95848bff27e481833c2768905
+  RxCocoa: 15a52fc590dcc700cb4a690a633b5c5184ce3a78
+  RxDataSources: 824693e84d00781d0a5e5cedc1ff95ce9250aacd
+  RxSwift: af5680055c4ad04480189c52d28385b1029493a6
+  SnapKit: 2e456761aa92d4d4067a7a5594c18769d451a8ad
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  Then: 8496793c8fcac95482b943909b440724c7d8d82c
+  Toaster: be65cd48e93a525b2a9cc4bd25a2bfc900e02d9f
+  XCGLogger: 38063ea89b4c8b23232d18efd2e12eb0005f3ea4
+
+PODFILE CHECKSUM: 3702f0fa02758e657e2e50da8617020570f570f5
+
+COCOAPODS: 1.1.1
