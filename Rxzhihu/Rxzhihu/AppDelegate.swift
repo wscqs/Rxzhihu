@@ -16,11 +16,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         WLYLog.setup()
-        let vc = ViewController()
-        let rootViewController = SideMenuViewController(leftViewController: vc, mainViewController: ViewController1())
-        let navigationVC = UINavigationController(rootViewController: rootViewController)
+        let vc = HomeSideViewController()
+        let rootViewController = SideMenuViewController(leftViewController: vc, mainViewController: RxTableViewController())
         window = UIWindow()
-        window?.rootViewController = navigationVC
+        window?.rootViewController = rootViewController
         window?.makeKeyAndVisible()
         return true
     }

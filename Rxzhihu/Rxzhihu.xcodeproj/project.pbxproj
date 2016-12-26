@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2CCBDECC1E10ABAE00BDCAA4 /* BaseServiceAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCBDECB1E10ABAE00BDCAA4 /* BaseServiceAPI.swift */; };
+		2CCBDECE1E10B53700BDCAA4 /* HomeSideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCBDECD1E10B53700BDCAA4 /* HomeSideViewController.swift */; };
+		2CCBDED01E10B7A300BDCAA4 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCBDECF1E10B7A300BDCAA4 /* BaseViewController.swift */; };
+		2CCBDED91E10BBFD00BDCAA4 /* HomeSideCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCBDED81E10BBFD00BDCAA4 /* HomeSideCell.swift */; };
+		2CCBDEDB1E10BC1300BDCAA4 /* BaseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCBDEDA1E10BC1300BDCAA4 /* BaseTableViewCell.swift */; };
+		2CCBDEDE1E10C95D00BDCAA4 /* WLYArticleTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCBDEDC1E10C95D00BDCAA4 /* WLYArticleTheme.swift */; };
+		2CCBDEDF1E10C95D00BDCAA4 /* WLYArticleThemeResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCBDEDD1E10C95D00BDCAA4 /* WLYArticleThemeResult.swift */; };
+		2CCBDEE11E10C9A400BDCAA4 /* HTTPManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCBDEE01E10C9A400BDCAA4 /* HTTPManager.swift */; };
+		2CCBDEE31E10EF7B00BDCAA4 /* ArticleService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCBDEE21E10EF7B00BDCAA4 /* ArticleService.swift */; };
+		2CCBDEE51E10F2D600BDCAA4 /* HomeSideViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCBDEE41E10F2D600BDCAA4 /* HomeSideViewModel.swift */; };
+		2CCBDEE71E1107B400BDCAA4 /* RxTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CCBDEE61E1107B400BDCAA4 /* RxTableViewController.swift */; };
 		470C6D911E10040200444B7C /* SideMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 470C6D901E10040200444B7C /* SideMenuViewController.swift */; };
 		470C6D931E10103300444B7C /* WLYLog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 470C6D921E10103300444B7C /* WLYLog.swift */; };
 		470C6D951E10108200444B7C /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 470C6D941E10108200444B7C /* ViewController1.swift */; };
@@ -46,6 +57,17 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2CCBDECB1E10ABAE00BDCAA4 /* BaseServiceAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseServiceAPI.swift; sourceTree = "<group>"; };
+		2CCBDECD1E10B53700BDCAA4 /* HomeSideViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeSideViewController.swift; sourceTree = "<group>"; };
+		2CCBDECF1E10B7A300BDCAA4 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		2CCBDED81E10BBFD00BDCAA4 /* HomeSideCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeSideCell.swift; sourceTree = "<group>"; };
+		2CCBDEDA1E10BC1300BDCAA4 /* BaseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseTableViewCell.swift; sourceTree = "<group>"; };
+		2CCBDEDC1E10C95D00BDCAA4 /* WLYArticleTheme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WLYArticleTheme.swift; sourceTree = "<group>"; };
+		2CCBDEDD1E10C95D00BDCAA4 /* WLYArticleThemeResult.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WLYArticleThemeResult.swift; sourceTree = "<group>"; };
+		2CCBDEE01E10C9A400BDCAA4 /* HTTPManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPManager.swift; sourceTree = "<group>"; };
+		2CCBDEE21E10EF7B00BDCAA4 /* ArticleService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticleService.swift; sourceTree = "<group>"; };
+		2CCBDEE41E10F2D600BDCAA4 /* HomeSideViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeSideViewModel.swift; sourceTree = "<group>"; };
+		2CCBDEE61E1107B400BDCAA4 /* RxTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RxTableViewController.swift; sourceTree = "<group>"; };
 		470C6D901E10040200444B7C /* SideMenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideMenuViewController.swift; sourceTree = "<group>"; };
 		470C6D921E10103300444B7C /* WLYLog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WLYLog.swift; sourceTree = "<group>"; };
 		470C6D941E10108200444B7C /* ViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
@@ -100,6 +122,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2CCBDECA1E10AB9500BDCAA4 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				2CCBDECB1E10ABAE00BDCAA4 /* BaseServiceAPI.swift */,
+				2CCBDEE21E10EF7B00BDCAA4 /* ArticleService.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		2CCBDED51E10BBAE00BDCAA4 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				2CCBDEE41E10F2D600BDCAA4 /* HomeSideViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		2CCBDED61E10BBAE00BDCAA4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2CCBDEDA1E10BC1300BDCAA4 /* BaseTableViewCell.swift */,
+				2CCBDED81E10BBFD00BDCAA4 /* HomeSideCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		2CCBDED71E10BBB300BDCAA4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2CCBDEDC1E10C95D00BDCAA4 /* WLYArticleTheme.swift */,
+				2CCBDEDD1E10C95D00BDCAA4 /* WLYArticleThemeResult.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		34F233F989CAAE1BBB793B0E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -108,31 +165,12 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		470C6D8C1E10038200444B7C /* Models */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Models;
-			sourceTree = "<group>";
-		};
-		470C6D8D1E10038200444B7C /* ViewModels */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = ViewModels;
-			sourceTree = "<group>";
-		};
-		470C6D8E1E10038200444B7C /* Views */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Views;
-			sourceTree = "<group>";
-		};
 		470C6D8F1E1003D900444B7C /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				2CCBDECF1E10B7A300BDCAA4 /* BaseViewController.swift */,
 				470C6D901E10040200444B7C /* SideMenuViewController.swift */,
+				2CCBDECD1E10B53700BDCAA4 /* HomeSideViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -162,6 +200,7 @@
 				477F59271E0E0D0900C141EF /* AppDelegate.swift */,
 				477F59291E0E0D0900C141EF /* ViewController.swift */,
 				470C6D941E10108200444B7C /* ViewController1.swift */,
+				2CCBDEE61E1107B400BDCAA4 /* RxTableViewController.swift */,
 				477F592B1E0E0D0900C141EF /* Main.storyboard */,
 				477F592E1E0E0D0900C141EF /* Assets.xcassets */,
 				477F59301E0E0D0900C141EF /* LaunchScreen.storyboard */,
@@ -175,7 +214,7 @@
 			children = (
 				477F593A1E0E0FCF00C141EF /* Comment */,
 				477F593B1E0E0FCF00C141EF /* Module */,
-				477F593C1E0E0FCF00C141EF /* Service */,
+				2CCBDECA1E10AB9500BDCAA4 /* Service */,
 				477F593D1E0E0FCF00C141EF /* Utils */,
 				477F593E1E0E0FCF00C141EF /* Vender */,
 			);
@@ -196,19 +235,12 @@
 		477F593B1E0E0FCF00C141EF /* Module */ = {
 			isa = PBXGroup;
 			children = (
+				2CCBDED71E10BBB300BDCAA4 /* Models */,
+				2CCBDED51E10BBAE00BDCAA4 /* ViewModels */,
+				2CCBDED61E10BBAE00BDCAA4 /* Views */,
 				470C6D8F1E1003D900444B7C /* ViewControllers */,
-				470C6D8C1E10038200444B7C /* Models */,
-				470C6D8D1E10038200444B7C /* ViewModels */,
-				470C6D8E1E10038200444B7C /* Views */,
 			);
 			path = Module;
-			sourceTree = "<group>";
-		};
-		477F593C1E0E0FCF00C141EF /* Service */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Service;
 			sourceTree = "<group>";
 		};
 		477F593D1E0E0FCF00C141EF /* Utils */ = {
@@ -217,6 +249,7 @@
 				47DBB38E1E0E6C6E001D395B /* Extension */,
 				477F59571E0E142300C141EF /* Theme.swift */,
 				470C6D921E10103300444B7C /* WLYLog.swift */,
+				2CCBDEE01E10C9A400BDCAA4 /* HTTPManager.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -401,10 +434,15 @@
 				470C6D951E10108200444B7C /* ViewController1.swift in Sources */,
 				477F592A1E0E0D0900C141EF /* ViewController.swift in Sources */,
 				477F59511E0E102000C141EF /* Skin.swift in Sources */,
+				2CCBDED91E10BBFD00BDCAA4 /* HomeSideCell.swift in Sources */,
 				477F594D1E0E102000C141EF /* ImagePicker.swift in Sources */,
 				47DBB39E1E0E6C6E001D395B /* UIColor+Extension.swift in Sources */,
+				2CCBDED01E10B7A300BDCAA4 /* BaseViewController.swift in Sources */,
+				2CCBDEE11E10C9A400BDCAA4 /* HTTPManager.swift in Sources */,
+				2CCBDEDF1E10C95D00BDCAA4 /* WLYArticleThemeResult.swift in Sources */,
 				47DBB39D1E0E6C6E001D395B /* UIButton+Extension.swift in Sources */,
 				47DBB3AB1E0E6D2D001D395B /* QSCommon.swift in Sources */,
+				2CCBDEDE1E10C95D00BDCAA4 /* WLYArticleTheme.swift in Sources */,
 				47DBB3AE1E0E6D81001D395B /* Notification+Extension.swift in Sources */,
 				477F59531E0E102000C141EF /* StatePicker.swift in Sources */,
 				477F59581E0E142300C141EF /* Theme.swift in Sources */,
@@ -418,17 +456,23 @@
 				477F59521E0E102000C141EF /* SkinManager.swift in Sources */,
 				477F594F1E0E102000C141EF /* Picker.swift in Sources */,
 				470C6D911E10040200444B7C /* SideMenuViewController.swift in Sources */,
+				2CCBDEE31E10EF7B00BDCAA4 /* ArticleService.swift in Sources */,
+				2CCBDEDB1E10BC1300BDCAA4 /* BaseTableViewCell.swift in Sources */,
 				477F59541E0E102000C141EF /* UIColorExtension.swift in Sources */,
 				47DBB39A1E0E6C6E001D395B /* Date+Extension.swift in Sources */,
 				477F594C1E0E102000C141EF /* ColorInterface.swift in Sources */,
 				47DBB3A41E0E6C6E001D395B /* UIView+Extension.swift in Sources */,
 				47DBB3A91E0E6D2D001D395B /* BaseAPI.swift in Sources */,
 				47DBB3A31E0E6C6E001D395B /* UISegmentedControl+Extension.swift in Sources */,
+				2CCBDECE1E10B53700BDCAA4 /* HomeSideViewController.swift in Sources */,
 				47DBB3A11E0E6C6E001D395B /* UILabel+Extension.swift in Sources */,
+				2CCBDEE71E1107B400BDCAA4 /* RxTableViewController.swift in Sources */,
 				47DBB39F1E0E6C6E001D395B /* UIImage+Extension.swift in Sources */,
+				2CCBDEE51E10F2D600BDCAA4 /* HomeSideViewModel.swift in Sources */,
 				47DBB3AC1E0E6D2D001D395B /* RoundImageView.swift in Sources */,
 				47DBB39B1E0E6C6E001D395B /* String+Extension.swift in Sources */,
 				477F59501E0E102000C141EF /* PickerProtocol.swift in Sources */,
+				2CCBDECC1E10ABAE00BDCAA4 /* BaseServiceAPI.swift in Sources */,
 				470C6D931E10103300444B7C /* WLYLog.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
